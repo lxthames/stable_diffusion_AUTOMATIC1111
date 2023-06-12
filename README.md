@@ -1,0 +1,2 @@
+# stable_diffusion_AUTOMATIC1111
+stable_diffusion_AUTOMATIC1111 implementation
